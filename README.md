@@ -1,1 +1,1 @@
-# campus-milestone
+# Infrastructure for milestone project
